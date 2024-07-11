@@ -1,4 +1,4 @@
-###Visual Representation of the Application
+**Visual Representation of the Application**
 
 
 
