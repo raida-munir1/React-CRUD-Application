@@ -1,0 +1,75 @@
+.custom-button {
+    background-color: blue;
+    color: white;
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin: 1rem 0;
+  }
+  
+  .custom-button:hover {
+    background-color: darkblue;
+  }
+  
+
+  .center-heading {
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+
+  .red-button {
+    background-color: #f5222d;
+    border-color: #f5222d;
+    color: #fff;
+  }
+  .red-button:hover{
+    background-color: rgb(139, 16, 0);
+  }
+  
+  .blue-button {
+    background-color: #1890ff;
+    border-color: #1890ff;
+    color: #fff;
+  }
+  .blue-button:hover {
+    background-color: darkblue;
+  }
+  
+  
+  .green-button {
+    background-color: #52c41a;
+    border-color: #52c41a;
+    color: #fff;
+  }
+  
+  .add-employee-button {
+    background-color: blue;
+    color: white;
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  
+  .add-employee-button:hover {
+    background-color: darkblue;
+  }
+
+  .submit-button{
+    background-color: blue;
+    color: white;
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  .submit-button:hover {
+    background-color: darkblue;
+  }
+  
+  
